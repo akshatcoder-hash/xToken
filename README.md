@@ -1,5 +1,5 @@
 
-# xSwap Starter
+# xToken Starter
 
 This is the template for creating a cross-chain borrow lend application on [StartOnWormhole](https://startonwormhole.com).
 
